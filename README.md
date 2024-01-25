@@ -6,6 +6,5 @@ In this dictionary contains simple tools for expeperiment control:
   - Collection of signal from quadrant detector
   - Simple Basler camera controler
   - Multiple main funcitons for different purposes that connect tools above for the usecase I needed
-  - .zip file containing virtual enviroment that I used with all the scripts
 
 Hopefully in the future the code will have better documentation comments but right now I am overwhelmed by other tasks.
